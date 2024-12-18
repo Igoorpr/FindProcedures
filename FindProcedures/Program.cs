@@ -11,7 +11,7 @@ class Program
             string filepath2 = "FileNotFound.txt";
 
             string dir1 = @"C:\Users\PC\Documents\Path\"; // Base path
-            string dir2 = @"C:\Users\PC\Documents\Path\Compare"; // Campare path
+            string dir2 = @"C:\Users\PC\Documents\Path\Compare\"; // Campare path
 
             List<string> lstfilesfound = new List<string>();
             List<string> lstfilesnotfound = new List<string>();
